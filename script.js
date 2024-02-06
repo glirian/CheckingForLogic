@@ -14,6 +14,6 @@ if(isNaN(num)){
 }
 
 }
-
+console.log("Hello word");
 console.log(text);
 console.log(numb)
